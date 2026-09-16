@@ -1,0 +1,5 @@
+rapidocr==3.9.2
+onnxruntime==1.29.0
+PyMuPDF==1.26.4
+Pillow==12.3.0
+pyinstaller==6.16.0

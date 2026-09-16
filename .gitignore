@@ -1,0 +1,27 @@
+node_modules/
+dist/
+tmp/
+dist-electron/
+release/
+build-resources/dws/dws.exe
+build-resources/ocr/
+.vendor/
+docs/presentation/.qa-*.png
+.tmp/
+.tmp-dws-bus/
+.local-backups/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+
+# Private runtime / competition recordings
+artifacts/
+recordings/
+private/
+**/state.json
+**/credentials*.json
+**/raw/
+*.sqlite*
+*.db

@@ -1,0 +1,8 @@
+镜我安装包内置 DingTalk Workspace CLI（DWS），用于让每位用户以自己的钉钉身份完成本地数据读取与上下文监听。
+
+Project: DingTalk Workspace CLI
+Source: https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli
+License: Apache License 2.0
+Bundled version: v1.0.54 (open edition, Windows x64)
+
+DWS 的登录凭证由 DWS 自身按 Windows 用户加密保存，不会随镜我安装包分发，也不会在不同用户之间共享。
